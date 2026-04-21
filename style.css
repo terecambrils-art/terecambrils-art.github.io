@@ -16,17 +16,18 @@ body {
   width: 100%;
   min-height: 25vh;
 
+
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
   text-align: center;
 
   background: linear-gradient(135deg, #3b82f6, #8b5cf6);
   color: white;
 
-  padding: 0 20px ; /* 👈 más espacio arriba */
+  padding: 20px 20px ; /* 👈 más espacio arriba */
+  height: 18vh;
 }
 
 .hero h1 {
