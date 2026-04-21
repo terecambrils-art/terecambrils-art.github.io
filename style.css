@@ -30,6 +30,7 @@ body {
 
 .hero h1 {
   font-size: 3rem;
+  margin-top: 10px;
 }
 
 .hero p {
