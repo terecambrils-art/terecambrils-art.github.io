@@ -14,8 +14,8 @@ body {
 /* HERO */
 .hero {
   width: 100%;
-  min-height: 25vh;
-
+  min-height: 18vh;
+  max-height: 22vh;
 
   display: flex;
   flex-direction: column;
@@ -27,7 +27,7 @@ body {
   color: white;
 
   padding: 20px 20px ; /* 👈 más espacio arriba */
-  height: 18vh;
+ 
 }
 
 .hero h1 {
